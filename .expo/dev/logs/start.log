@@ -548,3 +548,9 @@
 {"_e":"metro:client_log","_t":1790783184116,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
 {"_e":"metro:client_log","_t":1790783410975,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
 {"_e":"metro:client_log","_t":1790783558191,"level":"error","data":["[ReferenceError: x is not defined]","\n\n\u001b[1mCode: LearnScreen.js\u001b[22m\n\u001b[0m \u001b[90m 284 |\u001b[39m     color\u001b[33m:\u001b[39m \u001b[32m'#4A5568'\u001b[39m\u001b[33m,\u001b[39m\n \u001b[90m 285 |\u001b[39m   }\u001b[33m,\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 286 |\u001b[39m })\u001b[33m;\u001b[39mx\n \u001b[90m     |\u001b[39m    \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  <global> (src\\screens\\LearnScreen.js:286:4)\u001b[39m"]}
+{"_e":"root:init","_t":1790790752085,"format":"v0-jsonl","version":"57.0.27"}
+{"_e":"env:mode","_t":1790790752086,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1790790752089,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1790790752573,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1790790753171,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1790790753660,"plugins":[]}
