@@ -554,3 +554,48 @@
 {"_e":"devserver:start","_t":1790790752573,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
 {"_e":"metro:config","_t":1790790753171,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
 {"_e":"expo:dev-tools-plugin:load","_t":1790790753660,"plugins":[]}
+{"_e":"metro:instantiate","_t":1790790758155,"atlas":false,"workers":8,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1790790778845,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1790790778846,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1790790778869,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1790790778970,"id":"1","progress":0.04280618311533888,"total":29,"current":6}
+{"_e":"metro:bundling:progress","_t":1790790779072,"id":"1","progress":0.08379501385041552,"total":76,"current":22}
+{"_e":"metro:bundling:progress","_t":1790790779172,"id":"1","progress":0.5087045847750865,"total":136,"current":97}
+{"_e":"metro:bundling:progress","_t":1790790779272,"id":"1","progress":0.9107608265048686,"total":219,"current":209}
+{"_e":"metro:bundling:done","_t":1790790779371,"id":"1","total":219,"ms":525.204}
+{"_e":"metro:client_log","_t":1790790779543,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1790790779544,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1790790779544,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1790790779545,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:bundling:started","_t":1790790840234,"id":"3","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1790790840234,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1790790840277,"id":"3","total":1,"ms":42.1568}
+{"_e":"metro:client_log","_t":1790790840605,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1790790840607,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1790790840607,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1790790840608,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"root:init","_t":1790790893923,"format":"v0-jsonl","version":"57.0.27"}
+{"_e":"env:mode","_t":1790790893924,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1790790893928,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1790790900418,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1790790900935,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1790790901327,"plugins":[]}
+{"_e":"metro:instantiate","_t":1790790905512,"atlas":false,"workers":8,"host":"::","port":8082}
+{"_e":"metro:bundling:started","_t":1790790986071,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1790790986073,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1790790986096,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1790790986197,"id":"1","progress":0.09,"total":9,"current":3}
+{"_e":"metro:bundling:progress","_t":1790790986298,"id":"1","progress":0.09,"total":65,"current":15}
+{"_e":"metro:bundling:progress","_t":1790790986403,"id":"1","progress":0.390625,"total":120,"current":75}
+{"_e":"metro:bundling:progress","_t":1790790986504,"id":"1","progress":0.7901234567901234,"total":207,"current":184}
+{"_e":"metro:bundling:done","_t":1790790986633,"id":"1","total":207,"ms":561.9606}
+{"_e":"metro:client_log","_t":1790790986785,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1790790986786,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1790790986786,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1790790986786,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"root:init","_t":1790884400025,"format":"v0-jsonl","version":"57.0.27"}
+{"_e":"env:mode","_t":1790884400045,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1790884400070,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1790884405838,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1790884416386,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1790884421922,"plugins":[]}

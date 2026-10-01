@@ -2,6 +2,7 @@
   "name": "lalo-app",
   "version": "1.0.0",
   "main": "index.js",
+  "homepage": "https://ralphjacquet.github.io/kreyol-app",
   "dependencies": {
     "@react-navigation/bottom-tabs": "^7.19.2",
     "@react-navigation/native": "^7.4.1",
@@ -18,7 +19,12 @@
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+    "predeploy": "npx expo export -p web",
+    "deploy": "gh-pages -d dist"
   },
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
 }
