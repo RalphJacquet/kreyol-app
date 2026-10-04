@@ -1,11 +1,14 @@
 {
   "expo": {
     "name": "lalo-app",
-    "slug": "lalo-app",
+    "slug": "kreyol-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "experiments": {
+      "baseUrl": "/kreyol-app"
+    },
     "ios": {
       "supportsTablet": true
     },
@@ -18,8 +21,9 @@
       }
     },
     "web": {
+      "output": "static",
       "favicon": "./assets/favicon.png",
-      "baseUrl": "/kreyol-app/"
+      "baseUrl": "/kreyol-app"
     }
   }
 }
